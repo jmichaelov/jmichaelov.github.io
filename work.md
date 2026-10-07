@@ -18,7 +18,7 @@ This section covers my academic output ([publications](#publications), [preprint
 
 * **Michaelov, J. A.**, Amo Alonso, C., Chang, T. A., & Levy, R.P. (Accepted). 'Target-Language Generation in Multilingual Models: Activation Steering and Optimal Control'. *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*. [[arXiv](https://arxiv.org/abs/2609.16967)]
 
-* Salhan, S., Arnett, C., **Michaelov, J. A.**, Buttery, P. (Accepted). 'Beetle: A Bilingual Model Suite for Modelling Second-Language Processing'. *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*.[[arXiv](https://arxiv.org/abs/2609.22633)]
+* Salhan, S., Arnett, C., **Michaelov, J. A.**, Buttery, P. (Accepted). 'Beetle: A Bilingual Model Suite for Modelling Second-Language Processing'. *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*. [[arXiv](https://arxiv.org/abs/2609.22633)]
 
 * Trott, S., **Michaelov, J. A.**, Jones, C. R., Chang, T. A., & Bergen, B. K. (2026). Large Language Models as Distributional Baselines for Language Tasks. *Open Mind*. [[Open-Access Paper](https://doi.org/10.1162/OPMI.a.373)]
 
