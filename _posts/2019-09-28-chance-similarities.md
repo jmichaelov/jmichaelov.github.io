@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MUSING - Chance Similarities
+title: Chance Similarities
 ---
 
 One kind of linguistic coincidence that I've been recently interested in is a phenomenon sometimes referred to as 'chance similarity' (e.g. [Campbell and Mixco 2007](https://www.academia.edu/10169487/Glossary_of_historical_linguistics)) or 'false cognates' ([Wikipedia](https://en.wikipedia.org/wiki/False_cognate)). This is when words from different languages with similar meanings also sound similar, which might sometimes lead to the false assumption that the words are etymologically related.
