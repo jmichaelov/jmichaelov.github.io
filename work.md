@@ -5,7 +5,7 @@ permalink: /work/
 ---
 
 ## Overview
-This section covers my academic output ([publications](#publications), [preprints](#preprints), [non-archival conference papers](#refereed-conference-papers-non-archival), and [presentations and posters](#presentations-and-posters)) and [maintained GitHub repositories](#gitHub-repositories). For my other details, see my [full CV](../files/JamesMichaelovCV.pdf).
+This section covers my academic output ([publications](#publications), [preprints](#preprints), [non-archival conference papers](#refereed-conference-papers-non-archival), and [presentations and posters](#presentations-and-posters)) and [maintained GitHub repositories](#github-repositories). For other information, see my [full CV](../files/JamesMichaelovCV.pdf).
 
 
 &nbsp;
