@@ -5,7 +5,7 @@ permalink: /work/
 ---
 
 ## Overview
-This section covers my academic output ([publications](#publications), [preprints](#preprints), [non-archival papers](#refereed-conference-papers-non-archival), and [presentations and posters](#presentations-and-posters)), [media interviews](#media-interviews), [employment history](#employment), [teaching experience](#teaching-experience), and [other projects](#other-projects). For my full CV in PDF format, click [here](../files/JamesMichaelovCV.pdf).
+This section covers my academic output ([publications](#publications), [preprints](#preprints), [non-archival conference papers](#refereed-conference-papers-non-archival), and [presentations and posters](#presentations-and-posters)) and [maintained GitHub repositories](#gitHub-repositories). For my other details, see my [full CV](../files/JamesMichaelovCV.pdf).
 
 
 &nbsp;
@@ -102,63 +102,7 @@ This section covers my academic output ([publications](#publications), [preprint
 
 &nbsp;
 
-## Media Interviews
-Sandrine Ceurstemont (2023). Bigger, Not Necessarily Better. *Communications of the ACM*. **(Interviewed and quoted in article)**. [[Link to article](https://cacm.acm.org/news/bigger-not-necessarily-better/)]
-
-&nbsp;
-
----
-
-&nbsp;
-
-## Employment
-
-### University of Oxford
-* **Postdoctoral Researcher** (2026 - Present)
-
-### MIT
-* **Postdoctoral Associate** (2024 - 2026)
-
-### Amazon
-* **Applied Scientist Intern** at Alexa Games (Summer 2023)
-
-
-&nbsp;
-
----
-
-&nbsp;
-
-## Teaching Experience
-
-### The University of California San Diego
-* TA: *Introduction to Python* (Spring 2024)
-* TA: *Data Science in Practice* (Winter 2024)
-* TA: *Introduction to Data Science* (Fall 2023)
-* TA: *Learning, Memory, and Attention* (Spring 2023)
-* TA: *Neurobiology of Cognition* (Winter 2023)
-* TA: *Cognitive Consequences of Technology*  (Fall 2022)
-* TA: *Cognitive Perspectives*  (Summer 2022)
-* TA: *What the \*#!?: An Uncensored Introduction to Language*  (Fall 2021)
-* TA: *Cognitive Neuroeconomics* (Fall 2020)
-* TA: *Cognitive Neuroeconomics* (Summer 2020)
-* TA: *Language Comprehension* (Summer 2020)
-* TA: *Cognitive Neuroeconomics* (Winter 2020)
-* TA: *What the \*#!?: An Uncensored Introduction to Language* (Fall 2019)
-* TA: *Minds and Brains* (Spring 2019)
-
-### The University of Edinburgh
-* Tutor: *Logic* 1 (2018)
-* Tutor: *Informatics 1: Computation and Logic* (2017)
-
-
-&nbsp;
-
----
-
-&nbsp;
-
-## Other Projects
+## GitHub Repositories
 * [Parc (Parallel architecture) Language Models](https://huggingface.co/collections/jmichaelov/parc-models) 
 * [Easy-FAS: A command-line tool for calculating Forward Association Strength](https://github.com/jmichaelov/easy-fas)
 * [PsychFormers: Tools for calculating psycholinguistically-relevant metrics of language statistics using transformer language models](https://github.com/jmichaelov/PsychFormers)
