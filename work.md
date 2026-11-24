@@ -16,9 +16,9 @@ This section covers my academic output ([publications](#publications), [preprint
 
 ## Publications
 
-* **Michaelov, J. A.**, Amo Alonso, C., Chang, T. A., & Levy, R.P. (Accepted). 'Target-Language Generation in Multilingual Models: Activation Steering and Optimal Control'. *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*. [[arXiv](https://arxiv.org/abs/2609.16967)]
+* **Michaelov, J. A.**, Amo Alonso, C., Chang, T. A., & Levy, R.P. (2026). 'Target-Language Generation in Multilingual Models: Activation Steering and Optimal Control'. *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*. [[arXiv](https://arxiv.org/abs/2609.16967)]
 
-* Salhan, S., Arnett, C., **Michaelov, J. A.**, Buttery, P. (Accepted). 'Beetle: A Bilingual Model Suite for Modelling Second-Language Processing'. *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*. [[arXiv](https://arxiv.org/abs/2609.22633)]
+* Salhan, S., Arnett, C., **Michaelov, J. A.**, Buttery, P. (2026). 'Beetle: A Bilingual Model Suite for Modelling Second-Language Processing'. *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*. [[arXiv](https://arxiv.org/abs/2609.22633)]
 
 * Trott, S., **Michaelov, J. A.**, Jones, C. R., Chang, T. A., & Bergen, B. K. (2026). Large Language Models as Distributional Baselines for Language Tasks. *Open Mind*. [[Open-Access Paper](https://doi.org/10.1162/OPMI.a.373)]
 
@@ -65,6 +65,8 @@ This section covers my academic output ([publications](#publications), [preprint
 * **Michaelov, J. A.**, Arnett, C., Chang, T. A., Rivière, P. D., Taylor, S. M., Jones, C. R., Trott, S., Levy, R. P., Bergen, B. K., & Altman, M. (2026). How Open Must Language Models be to Enable Reliable Scientific Inference?. [[arXiv](https://arxiv.org/abs/2603.26539)]
 
 ## Refereed conference papers (non-archival)
+
+* **Michaelov, J. A.** & Bergen, B. K. (Accepted). Language Models Require Supporting Context to Predict Appropriately in Negative Contexts. *The NeurIPS 2026 Workshop on Linguistic Principles for Foundation Models (LP4FM)*. Sydney, Australia. [[Open-Access Paper](https://openreview.net/forum?id=QRKejgd5ji)]
 
 * **Michaelov, J. A.** & Levy, R. P., (2026). N-gram-like Language Models Predict Reading Time Best. *Proceedings of the Annual Meeting of the Cognitive Science Society, 48*. Rio de Janeiro, Brazil. [[arXiv](https://arxiv.org/abs/2603.09872)]
 
